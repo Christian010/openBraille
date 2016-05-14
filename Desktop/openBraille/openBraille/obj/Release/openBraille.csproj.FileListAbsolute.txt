@@ -1,0 +1,9 @@
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\bin\Release\openBraille.exe.config
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\bin\Release\openBraille.exe
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\bin\Release\openBraille.pdb
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\obj\Release\openBraille.csprojResolveAssemblyReference.cache
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\obj\Release\openBraille.Form_Main.resources
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\obj\Release\openBraille.Properties.Resources.resources
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\obj\Release\openBraille.csproj.GenerateResource.Cache
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\obj\Release\openBraille.exe
+C:\Users\Legacy\Documents\Visual Studio 2015\Projects\openBraille\openBraille\obj\Release\openBraille.pdb
